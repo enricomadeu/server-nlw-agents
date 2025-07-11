@@ -8,6 +8,13 @@
       "when": 1752034264054,
       "tag": "0000_dapper_omega_sentinel",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752204895013,
+      "tag": "0001_demonic_gauntlet",
+      "breakpoints": true
     }
   ]
 }
